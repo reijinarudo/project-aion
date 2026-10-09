@@ -1,0 +1,14 @@
+# Versions from the environment Aion runs in (Python 3.12.2, Windows 11).
+numpy==2.3.2
+sounddevice==0.5.2
+websockets==15.0.1
+requests==2.32.5
+# Google Calendar (optional)
+google-auth==2.58.0
+google-auth-oauthlib==1.4.1
+requests-oauthlib==2.0.0
+# Wake word (optional)
+vosk==0.3.45
+# Building the .exe (optional)
+pyinstaller==6.15.0
+pyinstaller-hooks-contrib==2025.8

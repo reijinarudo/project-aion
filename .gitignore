@@ -1,0 +1,31 @@
+# Secrets and personal data
+.env
+config.local.*
+config/profile.md
+config/profile.json
+memory/aion_memory.md
+keys/*
+!keys/README.md
+
+# Logs and runtime files
+*.log
+logs/
+*.pid
+captures/
+recordings/
+
+# Python and build output
+__pycache__/
+*.pyc
+myenv/
+venv/
+.venv/
+build/
+dist/
+*.exe
+
+# Downloaded models and avatar files (download or make your own; see README)
+models/*
+!models/README.md
+*.vrm
+*.vrm.bak
