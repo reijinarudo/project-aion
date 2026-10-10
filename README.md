@@ -26,7 +26,7 @@ It exists because a voice assistant is easier to talk to when it has a face, and
 
 ## Demo
 
-[![Aion on the Windows desktop; click to watch the demo video](media/aion-desktop.png)](https://youtu.be/dExOrEA55wY)
+<a href="https://youtu.be/dExOrEA55wY"><img src="media/aion-desktop.png" width="360" alt="Aion on the Windows desktop; click to watch the demo video"></a>
 
 [Watch Aion speak on YouTube](https://youtu.be/dExOrEA55wY). Click the picture or the link; the avatar listens, answers out loud, and lip-syncs in VMagicMirror.
 
